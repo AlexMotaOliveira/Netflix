@@ -1,8 +1,8 @@
-##Recriando a interface inicial do Netflix
+## Recriando a interface inicial do Netflix
 
-Projeto criado na live da plataforma da <a henf="https://digitalinnovation.one/"> Digital Innovation ONE</a>.
+Projeto criado na live da plataforma da <a href="https://digitalinnovation.one/"target="_blank" > Digital Innovation ONE</a>.
 
-###Tecnologias
+### Tecnologias
 
 * HTML
 * CSS
